@@ -1,0 +1,143 @@
+🧑 You: React API courses from Udemy
+
+🤖 AI Assistant:
+
+1. React.js: Building Production Ready Apps, Start to Finish  
+🔗 https://www.udemy.com/reactjs-building-production-ready-apps-start-to-finish/
+
+2. Complete React JS Web Developer with ES6  
+🔗 https://www.udemy.com/complete-react-js-course/
+
+3. ReactJS Course: Learn JavaScript Library Used by Facebook & IG  
+🔗 https://www.udemy.com/react-js/
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧑 You: Best machine learning courses
+
+🤖 AI Assistant:
+
+1. Machine Learning — Coursera  
+🔗 https://www.coursera.org/specializations/machine-learning
+
+2. Intro to Machine Learning with TensorFlow — Udacity  
+🔗 https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230
+
+3. Supervised Machine Learning: Regression and Classification — DeepLearning.AI  
+🔗 https://www.coursera.org/learn/machine-learning
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧑 You: Only beginner ones from Coursera
+
+🤖 AI Assistant:
+
+1. Supervised Machine Learning: Regression and Classification  
+⭐ 4.9  
+🔗 https://www.coursera.org/learn/machine-learning
+
+2. Mathematics for Machine Learning: Linear Algebra  
+⭐ 4.7  
+🔗 https://www.coursera.org/learn/linear-algebra-machine-learning
+
+3. Probability & Statistics for Machine Learning & Data Science  
+⭐ 4.6  
+🔗 https://www.coursera.org/learn/machine-learning-probability-and-statistics
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧑 You: Quantum blockchain neuroscience astronaut courses
+
+🤖 AI Assistant:
+
+I could not find enough relevant information.
+
+🧑 You: hello
+
+🤖 AI Assistant:
+
+Hello. I'm an AI Course Recommendation Assistant.  
+How can I assist you today? Are you looking for a course recommendation based on a specific topic or skill?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧑 You: Best machine learning courses
+
+🤖 AI Assistant:
+
+1. Machine Learning — Coursera  
+⭐ 4.6  
+🔗 https://www.coursera.org/specializations/machine-learning
+
+2. Machine Learning — Coursera  
+⭐ 4.9  
+🔗 https://www.coursera.org/specializations/machine-learning-introduction
+
+3. Intro to Machine Learning with TensorFlow — Udacity  
+⭐ 4.7  
+🔗 https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230
+
+4. Supervised Machine Learning: Regression and Classification — DeepLearning.AI  
+⭐ 4.9  
+🔗 https://www.coursera.org/learn/machine-learning
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧑 You: i want top 10
+
+🤖 AI Assistant:
+
+1. Machine Learning — Coursera  
+⭐ 4.6
+
+2. Machine Learning Introduction — Coursera  
+⭐ 4.9
+
+3. Intro to Machine Learning with TensorFlow — Udacity  
+⭐ 4.7
+
+4. Introduction to Machine Learning in Production — Coursera  
+⭐ 4.7
+
+5. Advanced Machine Learning on Google Cloud — Coursera  
+⭐ 4.5
+
+6. IBM Introduction to Machine Learning — Coursera  
+⭐ 4.6
+
+7. Introduction to Machine Learning — Udacity
+
+8. Probability & Statistics for Machine Learning & Data Science — Coursera  
+⭐ 4.6
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧑 You: Give them with urls
+
+🤖 AI Assistant:
+
+1. Introduction to Machine Learning  
+🔗 https://www.udacity.com/course/intro-to-machine-learning--ud120
+
+2. Machine Learning  
+🔗 https://www.coursera.org/specializations/machine-learning
+
+3. Intro to Machine Learning with TensorFlow  
+🔗 https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230
+
+4. Machine Learning  
+🔗 https://www.udacity.com/course/machine-learning--ud262
+
+5. Mathematics for Machine Learning and Data Science  
+🔗 https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science
+
+6. Probability & Statistics for Machine Learning & Data Science  
+🔗 https://www.coursera.org/learn/machine-learning-probability-and-statistics
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧑 You: Worst Machine learning courses
+
+🤖 AI Assistant:
+
+I could not find enough relevant information to determine the worst machine learning courses because the retrieved dataset does not contain negative reviews or low-rated course feedback.
